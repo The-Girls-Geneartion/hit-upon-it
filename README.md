@@ -2,7 +2,7 @@
 A platform to enable problem solving
 
 ### tasks
-- 
+
 - create a back end API with [flask](http://flask.pocoo.org/)
 
 
